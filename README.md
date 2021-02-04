@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**mursideyarkin/mursideyarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brief information about me:
 
-Here are some ideas to get you started:
+- 🌱	Data Science and Machine Learning Bootcamp Participant at Veri Bilimi Okulu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 	Motivated to learn, grow, and excel in Data Science and Machine Learning.
+
+- :muscle:	Business data analyst with over 2.5 years of experience in banking legal & regulatory reporting.
+
+- :mortar_board:	BSc. in Management Engineering, Istanbul Technical University.
+
+
+📫 How to reach me:
+
+https://www.linkedin.com/in/mursideyarkin/
+
+https://www.kaggle.com/mursideyarkin
+
+https://medium.com/@yarkinmurside
