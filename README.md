@@ -2,7 +2,7 @@
 
 Brief information about me:
 
-- 🌱	Data Science and Machine Learning Bootcamp Participant at Veri Bilimi Okulu.
+- 🌱	Data Science and Machine Learning Bootcamp Participant at [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
 
 - 💻 	Motivated to learn, grow, and excel in Data Science and Machine Learning.
 
@@ -13,8 +13,8 @@ Brief information about me:
 
 📫 How to reach me:
 
-https://www.linkedin.com/in/mursideyarkin/
+[Linkedln](https://www.linkedin.com/in/mursideyarkin/)
 
-https://www.kaggle.com/mursideyarkin
+[Kaggle](https://www.kaggle.com/mursideyarkin)
 
-https://medium.com/@yarkinmurside
+[Medium](https://medium.com/@yarkinmurside)
