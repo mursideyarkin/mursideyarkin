@@ -10,10 +10,12 @@
 
 :mortar_board:	BSc. in Management Engineering, Istanbul Technical University.
 
+
+
 📫  **How to reach me:**
 
-[Linkedln](https://www.linkedin.com/in/mursideyarkin/)
+* [Linkedln](https://www.linkedin.com/in/mursideyarkin/)
 
-[Kaggle](https://www.kaggle.com/mursideyarkin)
+* [Kaggle](https://www.kaggle.com/mursideyarkin)
 
-[Medium](https://medium.com/@yarkinmurside)
+* [Medium](https://medium.com/@yarkinmurside)
