@@ -17,5 +17,3 @@
 * [Linkedln](https://www.linkedin.com/in/mursideyarkin/)
 
 * [Kaggle](https://www.kaggle.com/mursideyarkin)
-
-* [Medium](https://medium.com/@yarkinmurside)
