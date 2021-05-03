@@ -4,9 +4,7 @@
 
 🌱 Data Science and Machine Learning Bootcamp Participant at [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
 
- 💻 Motivated to learn, grow, and excel in Data Science and Machine Learning.
- 
-:muscle: Business data analyst with over 2.5 years of experience in banking legal & regulatory reporting.
+ 💻 Motivated to learn, grow, and excel in Data Analytics and Data Science.
 
 :mortar_board:	BSc. in Management Engineering, Istanbul Technical University.
 
