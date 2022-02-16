@@ -2,9 +2,9 @@
 
 **Brief information about me:**
 
-🌱 Data Science and Machine Learning Bootcamp Participant at [Veri Bilimi Okulu](https://www.linkedin.com/in/veribilimiokulu/)
+🌱 Customer Data Analyst at [Oxford University Press.](https://global.oup.com/?cc=gb)
 
- 💻 Motivated to learn, grow, and excel in Data Analytics and Data Science.
+💻 Motivated to learn, grow, and excel in Data Science and Analytics.
 
 :mortar_board:	BSc. in Management Engineering, Istanbul Technical University.
 
