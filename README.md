@@ -2,7 +2,7 @@
 
 **Brief information about me:**
 
-🌱 Customer Data Analyst at [Oxford University Press.](https://global.oup.com/?cc=gb)
+🌱 CRM Analyst at [Entain.](https://entaingroup.com/)
 
 💻 Motivated to learn, grow, and excel in Data Science and Analytics.
 
